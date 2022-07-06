@@ -1,0 +1,55 @@
+.content
+{
+   font-size: 20px;
+   font-weight: 300;
+   font-family: 'IBM Plex Sans', sans-serif;
+   
+}
+
+.conten{ 
+    color: green;
+
+} 
+.button{ 
+    background-color: yellow; 
+    border-radius: 10px; 
+    height: 25px;  
+    width: 100px; 
+    cursor: pointer;  
+    transition: opacity 0.15s;
+
+
+} 
+
+.button:hover{ 
+    opacity: 0.8; 
+
+
+}  
+.button:active{ 
+    opacity: 0.3;
+}
+
+
+.butto{ 
+    background-color: yellow; 
+    border-radius: 10px; 
+    height: 25px;  
+    width: 100px; 
+    cursor: pointer;  
+    transition: opacity 0.15s; 
+
+
+
+} 
+
+.butto:hover{ 
+    opacity: 0.5;
+} 
+.butto:active{ 
+    opacity: 0.3;
+}
+
+
+
+
